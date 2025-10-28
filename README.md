@@ -8,8 +8,8 @@ This project analyzes electricity demand in England & Wales alongside renewable 
 
 ## Dashboard Preview
 
-![alt text](https://github.com/Alexandercheng-rsch/UK-Electricity-Demand-Dashboard/blob/main/demo.png)
-
+![alt text](https://github.com/Alexandercheng-rsch/UK-Electricity-Demand-Dashboard/blob/main/1.png)
+![alt text](https://github.com/Alexandercheng-rsch/UK-Electricity-Demand-Dashboard/blob/main/2.png)
 ---
 
 ## Objectives
@@ -76,8 +76,9 @@ Data was cleaned, consolidated, and enriched in Excel and Power BI.
 
 ```
 ├── energy_dashboard.pbix    # Main dashboard file
-├── demo.png 
-└── README.md                 # Project documentation
+├── 1.png                    # Demo Image 1
+├── 2.png                    # Demo Image 2
+└── README.md                # Project documentation
 ```
 
 ---
